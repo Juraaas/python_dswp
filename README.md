@@ -1,1 +1,1 @@
-Repo dla python Jakub Jurewicz
+#Repo dla python Jakub Jurewicz
